@@ -4,3 +4,5 @@
 New status
 
 New fail
+
+Конфликт
