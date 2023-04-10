@@ -2,3 +2,5 @@
 
 
 New status
+
+New fail
